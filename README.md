@@ -1,3 +1,3 @@
 # gitinitation
 
-Bonjour monde !
+Bonjour tout le monde !
